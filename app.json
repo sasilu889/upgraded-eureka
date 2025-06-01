@@ -12,13 +12,13 @@
     },  
 
     "SESSION_ID": {
-      "description": "PRABATH-MD~4nF1AB7Z#aQfBBwq69j0XwoFLWcy3PXGT5yonlkZD6FJc55aG1mM",
+      "description": "PRABATH-MD~cilCBYyS#3lOFvNWVaDrfL-Rtw-Z_IISq-XU7kA_Q7zlKDWMh6I4",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "ghpQRCuBQopHTJMxDMqnQfh9hriB3lzb94gLfcO",
       "required": true
     }   
 },
